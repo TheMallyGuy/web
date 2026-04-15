@@ -8,7 +8,7 @@
         <p class="text-[16px] text-[#606060] group">
           i'm mally, a new developer from vietnam
           <span class="hidden group-hover:inline ml-2">
-            67 year old!!!! oh my ggod!!!
+            13 year old!!!! oh my ggod!!!
           </span>
         </p>
     </div>

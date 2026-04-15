@@ -5,11 +5,11 @@
         <h1 class="text-[72px] leading-none">
             hello...
         </h1>
-        <p class="text-[16px] text-[#606060]">
-            i'm mally, a new developer from vietnam   
-    <span class="sm hidden group-hover:inline">
-        13 year old!!!! oh my ggod!!!
-      </span>
+        <p class="text-[16px] text-[#606060] group">
+          i'm mally, a new developer from vietnam
+          <span class="hidden group-hover:inline ml-2">
+            67 year old!!!! oh my ggod!!!
+          </span>
         </p>
     </div>
 

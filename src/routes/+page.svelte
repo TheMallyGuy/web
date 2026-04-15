@@ -6,7 +6,10 @@
             hello...
         </h1>
         <p class="text-[16px] text-[#606060]">
-            i'm mally, a new developer from vietnam
+            i'm mally, a new developer from vietnam   
+    <span class="sm hidden group-hover:inline">
+        13 year old!!!! oh my ggod!!!
+      </span>
         </p>
     </div>
 
